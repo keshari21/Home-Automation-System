@@ -87,5 +87,6 @@ Mobile App Support: Build a dedicated mobile app for better UI/UX.
 AI-Based Automation: Use AI to learn user behavior and optimize automation.                                              
 
 **Output**             
-![Image](https://github.com/user-attachments/assets/7786dbd2-9c6a-4267-9385-32deb5c7da5c)
+![Image](https://github.com/user-attachments/assets/1d766e58-1fbe-4502-a3eb-2628d7cb5dc9)
+
 
