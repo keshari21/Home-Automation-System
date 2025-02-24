@@ -55,7 +55,7 @@ Receiving commands from a web dashboard or mobile app
 Switching relays ON/OFF based on user input                              
 Sending real-time feedback on appliance status   
 
-The code is written in C/C++ using the Arduino IDE and makes use of libraries like:          
+The code is written in C++ using the Arduino IDE and makes use of libraries like:          
 ESP8266WiFi (for Wi-Fi communication)                               
 PubSubClient (for MQTT-based communication, if applicable)                    
 Blynk or Firebase (for mobile app integration)                    
@@ -86,4 +86,5 @@ Voice Control: Integrate with Google Assistant or Amazon Alexa.
 Mobile App Support: Build a dedicated mobile app for better UI/UX.                                  
 AI-Based Automation: Use AI to learn user behavior and optimize automation.                                              
 
-**Output**                                                 
+**Output**             
+![Image](https://github.com/user-attachments/assets/c305d483-0e07-4466-a05e-0f4d6e2f6651)
